@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">UOME</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="done_uome">Done</string>
+    <string name="add_uome">You Owe Me</string>
+    <string name="title">UOME</string>
+    <string name="title_activity_main">UOME</string>
+
+</resources>
